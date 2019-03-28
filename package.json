@@ -1,0 +1,30 @@
+{
+  "name": "babel-plugin-transform-modules-sapui5",
+  "version": "1.0.0",
+  "description": "This plugin transforms ES2015 modules to SapUI5 Define",
+  "main": "lib/index.js",
+  "scripts": {
+    "publish": "npm run build && npm publish",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaaPex/babel-plugin-transform-modules-sapui5.git"
+  },
+  "author": {
+    "name": "Aleksey Kazantsev",
+    "email": "develop.kaa@gmail.com"
+  },
+  "keywords": [
+    "babel-plugin",
+    "sapui5",
+    "ui5",
+    "openui5"
+  ],
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bundleDependencies": false,
+  "deprecated": false
+}

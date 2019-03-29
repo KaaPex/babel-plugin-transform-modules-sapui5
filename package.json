@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-transform-modules-sapui5",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "This plugin transforms ES2015 modules to SapUI5 Define",
   "author": {
     "name": "Aleksey Kazantsev",

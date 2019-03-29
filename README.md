@@ -21,8 +21,7 @@ npm install --save-dev babel-plugin-transform-modules-sapui5
 ## Example
 
 ```javascript
-import { Button } from './Button';
-Button.click();
+export { default as Button } from './Button';
 
       ↓ ↓ ↓ ↓ ↓ ↓
       
